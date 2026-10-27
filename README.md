@@ -4,7 +4,7 @@
 <div align="center">
 
 <a href="https://github.com/Angela-Uwu">
-<img src="https://github.com/user-attachments/assets/77f249fa-d3bf-4ece-aad2-7fe374d1217f" />
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlOezdihF4lTAD7oSlcxnyR_H0mwcOt6VwSX5n6WqJQXRrpVShaDhA8xshHNb4aLUXBQvAZXAKSUi5SS7kd6SSuV0yrRPX132xWd9EG5IiAhHbFtgA1RX8gORFFQd9KbzQp9oAl9Ws2pY/s1600/latigo.gif" />
 </a>
 
 [![GitHub Followers](https://img.shields.io/github/followers/Angela-Uwu?label=Follow&style=social)](https://github.com/Angela-Uwu)
