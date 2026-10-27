@@ -7,8 +7,8 @@
 <img src="https://github.com/user-attachments/assets/77f249fa-d3bf-4ece-aad2-7fe374d1217f" />
 </a>
 
-[![GitHub Followers](https://img.shields.io/github/followers/CtorW?label=Follow&style=social)](https://github.com/CtorW)
-[![GitHub Stars](https://img.shields.io/github/stars/CtorW?style=social)](https://github.com/CtorW)
+[![GitHub Followers](https://img.shields.io/github/followers/Angela-Uwu?label=Follow&style=social)](https://github.com/Angela-Uwu)
+[![GitHub Stars](https://img.shields.io/github/stars/CtorW?style=social)](https://github.com/Angela-Uwu)
 </div>
 
 
@@ -53,7 +53,7 @@
 
 | CtorW's Stats | Ultimate Streak |
 | ------------- | ------------- |
-| ![CtorW's Stats](https://github-readme-stats.vercel.app/api?username=Angela-Uwu&theme=onedark&show_icons=true&hide_border=true&count_private=true)  | ![CtorW's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CtorW&theme=onedark&hide_border=true) 
+| ![CtorW's Stats](https://github-readme-stats.vercel.app/api?username=Angela-Uwu&theme=onedark&show_icons=true&hide_border=true&count_private=true)  | ![CtorW's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Angela-Uwu&theme=onedark&hide_border=true) 
 
 | Most Lang |
 | ----------|
