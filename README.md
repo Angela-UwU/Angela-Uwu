@@ -4,7 +4,7 @@
 <div align="center">
 
 <a href="https://github.com/Angela-Uwu">
-<img src="https://github.com/user-attachments/assets/77f249fa-d3bf-4ece-aad2-7fe374d1217f" />
+<img src="https://i.pinimg.com/originals/00/86/29/008629c50c10499f0f37b170190d1a6f.gif" />
 </a>
 
 [![GitHub Followers](https://img.shields.io/github/followers/Angela-Uwu?label=Follow&style=social)](https://github.com/Angela-Uwu)
